@@ -390,15 +390,3 @@ module.exports = {
 ```
 
 </details>
-
-## <a name="links">🔗 Links</a>
-
-Assets used in the project are here [here](https://drive.google.com/file/d/10bwdMeLAl7scTjrorqtG3v2Z6b4b7S-w/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
